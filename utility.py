@@ -275,7 +275,7 @@ def configs_list():
   return [
     'https://github.com/NUROISEA/anime-webui-colab/raw/main/configs/config.json',
     'https://github.com/NUROISEA/anime-webui-colab/raw/main/configs/ui-config.json',
-    'https://github.com/cc0ut/Stable-Diffusion-Extras/main/styles.csv',
+    'https://github.com/cc0ut/Stable-Diffusion-Extras/raw/main/styles.csv',
   ]
 
 def patch_list():
